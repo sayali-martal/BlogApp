@@ -216,3 +216,33 @@ a {
   border: none;
   box-shadow: var(--box-shadow);
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px var(--hover-color);
+  box-shadow: inset 0 0 6px var(--hover-color);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px var(--link-color);
+  box-shadow: inset 0 0 6px var(--link-color);
+}
+
+::-webkit-file-upload-button {
+  background: var(--medium-color);
+  color: var(--link-color);
+  box-shadow: var(--box-shadow);
+  border: 1px solid var(--medium-color);
+  border-radius: 5px;
+}
+
+::-webkit-file-upload-button:hover {
+  background: var(--link-color);
+  color: var(--medium-color);
+  box-shadow: var(--box-shadow);
+}
