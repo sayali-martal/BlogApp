@@ -12,33 +12,37 @@ Web application to post blogs about travel. The app is made in flask with jinja 
 
 - #### Home page
 
-![Home page 1](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Account.png)
-![Home page 2](/Screen captures/Home_2.png)
-![Home page 3](/Screen captures/Home_3.png)
+![Home page 1](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Home_1.png)
+![Home page 2](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Home_2.png)
+![Home page 3](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Home_3.png)
 
 - #### Login
 
-  ![Login](/Screen captures/Login.png)
+  ![Login](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Login.png)
 
 - #### Register
 
-  ![Register](/Screen captures/Register.png)
+  ![Register](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Register.png)
 
 - #### New post
 
-  ![New post](/Screen captures/New_post.png)
+  ![New post](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/New_post.png)
 
 - #### Account
 
-  ![Account](/Screen captures/Account.png)
+  ![Account](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Account.png)
 
 - #### Search posts of a user
 
-  ![Search posts of a user](/Screen captures/Search_user_posts.png)
+  ![Search posts of a user](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Search_user_posts.png)
+
+- #### View single post
+
+  ![View single post](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Post.png)
 
 - #### Update post
 
-  ![Update post](/Screen captures/Update_post.png)
+  ![Update post](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Update_post.png)
 
 - #### Delete post
-  ![Delete post](/Screen captures/Delete_post.png)
+  ![Delete post](https://github.com/sayali-martal/BlogApp/blob/main/Screen%20captures/Delete_post.png)
